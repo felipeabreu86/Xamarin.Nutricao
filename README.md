@@ -2,7 +2,7 @@
 
 Projeto de um aplicativo de Nutrição, que armazena as refeições informadas pelo usuário, com suas respectivas calorias, e provê a listagem para consulta futura.
 
-Conteúdo:
+Conceitos utilizados no Projeto:
 
 Entrada básica de dados;
 Evento Click;
