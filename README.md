@@ -1,6 +1,6 @@
 # Xamarin.Nutricao
 
-Projeto de um aplicativo de Nutrição, que armazena as refeições informadas pelo usuário com suas respectivas calorias e provê a listagem para consulta futura.
+Projeto de um aplicativo de Nutrição, que armazena as refeições informadas pelo usuário, com suas respectivas calorias, e provê a listagem para consulta futura.
 
 Conteúdo:
 
